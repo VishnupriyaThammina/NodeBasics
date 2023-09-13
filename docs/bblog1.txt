@@ -1,0 +1,6 @@
+Exceptions are used to handle errors or exceptional conditions in your code. When an exception is thrown, the normal flow of the program is disrupted, and the control is transferred to an exception-handling code block, such as a try...catch block.
+
+Here's a basic example of how to use the throw statement:
+this example, the divide function checks if the divisor (b) is zero. If it is, it throws a new Error object with a custom error message. Then, the code inside the try block attempts to call the divide function. If an exception is thrown, the control is transferred to the catch block, which catches the error and logs an error message.
+
+The throw statement is commonly used 
