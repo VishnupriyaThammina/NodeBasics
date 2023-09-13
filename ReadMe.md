@@ -4,7 +4,9 @@
 
 
 //The global object in node
-in browser window object is the browsers global object
+
+
+ window object is the browser's global object
 not required to say window.setTimeout
 we can do it directly 
 setTimeout
